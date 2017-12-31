@@ -14,10 +14,6 @@ This app is design to allow the end-user to enter their name, and will return Si
 
 Click the 'Enter Your Name' field, type the name you wish the lyrics to be generated, and hit return.  If you wish to enter another name, just repeat the process
 
-## Maintainers
-
-@SamitaMandwe
-
 ## Citations
 
 [Swift Language Guide] (https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309)
